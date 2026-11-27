@@ -1,0 +1,14 @@
+Method : GET | URL : /api/v1/users | Time : 1795720883081Method : GET | URL : /favicon.ico | Time : 1795720883228
+Method : GET | URL : /api/v1/users/3 | Time : 1795721401769
+
+Method : GET | URL : /api/v1/profile | Time : 1795721412246
+
+Method : GET | URL : /api/v1/users | Time : 1795721662152
+
+Method : GET | URL : /api/v1/users | Time : 1795721807509
+
+Method : GET | URL : /api/v1/users | Time : 1795721822709
+
+Method : GET | URL : /api/v1/users | Time : 1795722109441
+
+Method : GET | URL : /api/v1/users | Time : 1795788904176

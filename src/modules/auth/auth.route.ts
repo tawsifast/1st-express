@@ -4,6 +4,6 @@ import { authController } from "./auth.controller";
 
 const router = Router()
 
-router.post("/api/v1/login", authController.loginUser)
+router.post("/login", authController.loginUser)
 
 export const authRoute = router
