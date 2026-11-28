@@ -10,7 +10,7 @@ const router = Router()
 
 //        /api/v1/users
 router.post("/", userController.createUser );
-router.get("/", auth, userController.getAllUser);
+router.get("/", auth("admin", "agent", "user"), userController.getAllUser);
 router.get("/:id", userController.getSingleUser);
 router.put("/:id", userController.updateUser);
 router.delete("/:id", userController.deleteUser);
